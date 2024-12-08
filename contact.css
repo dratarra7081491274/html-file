@@ -1,0 +1,19 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    background-image: url("./images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav a{
+    color: black;
+}
+.nav a:hover{
+    color: rgba(0, 0, 0, 0.615);
+}
+.carousel-item img{
+    height: 35rem;
+    
+}
